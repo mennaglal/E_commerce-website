@@ -1,0 +1,49 @@
+/*start main rules*/
+body{
+    background-color: #d6d6e4;
+    font-size: 16px;
+}
+/*end main rules*/
+/*start login rules*/
+.login{
+    width: 300px;
+    margin: 100px auto;
+}
+.login input{
+    margin-bottom: 10px;
+}
+.login h4{
+    color: grey;
+}
+.login .form-control{
+    background-color: #e0b0d4;
+}
+/*end login rules*/
+  /* start edit bootstrap*/
+.navbar-dark{
+       margin-bottom: 0;
+       border-radius: 0;
+}
+.nav > li > a ,.navbar-brand{
+     padding: 15px 12px;
+}
+.navbar-dark .navbar-brand{
+    font-size: 1em;
+}
+     .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #f01e80;
+}
+.dropdown-item{
+    background-color: #f01e80;
+    color: #fff;
+}
+.dropdown-item:hover{
+    background-color: #cba5f1;
+}
+.dropdown-menu{
+    background-color: #f01e80;
+    margin-left: 10px;
+
+}
+
+/* end edit bootstrap*/
